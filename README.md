@@ -19,7 +19,7 @@ A Python-based tool that captures and analyzes live network packets (TCP, UDP, I
 ```bash
 pip install scapy matplotlib
 python sniffer.py
-
+```
 ## Output 
 <img width="1914" height="975" alt="image" src="https://github.com/user-attachments/assets/52811379-9efe-475a-ba96-591c9c9411cf" />
 
